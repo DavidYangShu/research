@@ -1,0 +1,26 @@
+---
+title: "Publications and News"
+about:
+    template: solana
+    links:
+      - icon: envelope
+        href: mailto:davidshu@mit.edu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shudavid
+      - icon: google
+        href: https://scholar.google.com/citations?user=tWMmxdUAAAAJ&hl=en&oi=ao
+      - icon: file-text
+        href: https://orcid.org/0000-0003-4096-3883
+listing:
+  contents: publications.yaml
+  type: grid
+  filter-ui: true
+  #categories: true
+  sort: 
+    - "date desc"
+  sort-ui: [title, date]
+  grid-columns: 2
+  max-description-length: 300
+  date-format: iso
+  image-height: 300px
+---

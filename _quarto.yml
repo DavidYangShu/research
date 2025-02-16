@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "David Yang Shu, MIT"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv/index.qmd
+        text: CV
+      - href: publications/index.qmd
+        text: Publications
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true

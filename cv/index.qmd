@@ -1,0 +1,62 @@
+---
+title: "David Yang Shu"
+image: "../profile_pic.jpg"
+about:
+    template: trestles
+    image-width: "1in"
+    image-shape: round
+    links:
+      - icon: envelope
+        href: mailto:davidshu@mit.edu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shudavid
+      - icon: google
+        href: https://scholar.google.com/citations?user=tWMmxdUAAAAJ&hl=en&oi=ao
+      - icon: file-text
+        href: https://orcid.org/0000-0003-4096-3883
+---
+
+## Research
+
+<p><b> MIT Energy Initiative | MIT</b><br>
+Cambridge, MA, USA <br>
+Postdoctoral Associate | <time>2/2025</time> - present <br>
+<i> Technoeconomic and environmental assessment, as well as nonlinear process optimization of point source carbon capture processes. </i>
+</p>
+
+<p><b> Reliability and Risk Engineering | ETH Zurich</b><br>
+Zurich Switzerland <br>
+Postdoctoral Associate | <time>8/2024</time> - 1/2025  <br> 
+<i> Technoeconomic and environmental life-cycle assessment of strontium-based direct air capture.</i></p>
+
+<p><b> Energy and Process Systems Engineering | ETH Zurich</b> <br>
+Zurich, Switzerland <br>
+Doctoral Student | <time>5/2020</time> - <time>7/2024</time> <br> 
+Thesis: <a href="https://doi.org/10.3929/ethz-b-000692837"> Design and Operation of Sustainable Net-Zero Energy Systems </a></p>
+
+<ul>
+ <li> <i> Life-cycle assessment of carbon capture and storage supply chains in the Horizon 2020 project DMX™ Demonstration in Dunkirk and the Swiss demonstrator project DemoUpCARMA</i></li>
+ <li> <i> Modeling and mathematical optimization of sector-coupled energy system transition to net-zero considering cost & environmental impacts</i></li>
+ <li> <i> Supervision of  Ph.D. students, including the development of their research plans and manuscripts</i></li>
+ <li> <i> Coordinator and leader of the carbon capture and storage research team</i></li> 
+</ul>
+
+<p><b> Forschungszentrum Jülich | Energy System Engineering </b><br>
+Jülich, Germany<br>
+Research Assistant | <time>7/2018</time> - <time>04/2020</time> <br>
+<i> Method development for long-term optimal scheduling of industrial energy systems with time-coupling constraints </i></p>
+
+--- 
+
+
+## Education
+
+<p><b> RWTH Aachen University | Aachen, Germany  </b><br>
+M.S. Energy Engineering | <time>2016</time> - <time>2018</time> <br>
+<i> Thesis on handling time coupling constraints and variables in operational optimization of renewable energy systems </i></p>
+
+<p><b> RWTH Aachen University | Aachen, Germany  </b><br>
+B.S. Mechanical Engineering | <time>2012</time> - <time>2016</time> <br>
+<i> Thesis on operational flexibility of buildings for providing energy services </i></p>
+
+---

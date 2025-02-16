@@ -1,0 +1,126 @@
+- title: Rigorous synthesis of energy systems by decomposition via time-series aggregation
+  path: https://doi.org/10.1016/j.compchemeng.2018.01.023
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0098135418300504-gr5.jpg
+  description: >
+    Designing multi-energy systems involves large time series resulting in complex large-scale optimization problems. Here, we propose a decomposition method based on time series aggregation that rigorously solves the design problem within a specified optimality gap.
+  categories: [industry, energy systems, design, operation, optimization]
+  author: "Björn Bahl, Julian Lützow, David Shu, Dinah Elena Hollermann, Matthias Lampe, Maike Hennen, 
+André Bardow"
+  date: 2018-02-14
+
+- title: "From peak power prices to seasonal storage: Long-term operational optimization of energy systems by time-series decomposition"
+  path: https://doi.org/10.1016/B978-0-12-818634-3.50118-1
+  image: https://ars.els-cdn.com/content/image/1-s2.0-B9780128186343501181-f118-01-9780128186343.jpg
+  description: >
+    Scheduling problems for multi-energy systems with time coupling constraints result in large-scale optimization problems. Here, we propose a time series decomposition method to obtain near optimal schedules.
+  categories: [industry, energy systems, operation, optimization]
+  author: "Nils Baumgärtner, <b>David Shu</b>, Björn Bahl, Maike Hennen, André Bardow"
+  date: 2019-07-25
+
+- title: "Model compendium, data, and optimization benchmarks for sector-coupled energy systems"
+  path: https://doi.org/10.1016/j.compchemeng.2020.106760
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0098135419310683-gr1.jpg
+  description: >
+    A model compendium, realistic data sets, and two case studies for an industrial and a research campus energy system are presented. The case studies serve as open-source benchmarks for methods in the design and operational optimization of multi-energy systems.
+  categories: [industry, energy systems, design, operation, optimization, open-source]
+  author: "Susanne Sass, Timm Faulwasser, Dinah Elena Hollermann, Chrysoula Dimitra Kappatou, Dominique Sauer, Thomas Schütz, David Yang Shu, André Bardow, Lutz Gröll, Veit Hagenmeyer, Dirk Müller, Alexander Mitsos"
+  date: 2020-02-05
+
+- title: "DeLoop: Decomposition-based Long-term operational optimization of energy systems with time-coupling constraints"
+  path: https://doi.org/10.1016/j.energy.2020.117272
+  image: 
+  description: >
+    Time coupling is common in renewable multi-energy systems, resulting in hard-to-solve large-scale operational optimization problems. Here, we propose the <i>DeLoop</i> method to generate near optimal long-term schedules via decomposition.
+  categories: [industry, energy systems, operation, optimization]
+  author: "Nils Baumgärtner, David Shu, Björn Bahl, Maike Hennen, Dinah Elena Hollermann, André Bardow"
+  date: 2020-03-03
+  
+- title: "COMANDO: A Next-Generation Open-Source Framework for Energy Systems Optimization"
+  path: https://doi.org/10.1016/j.compchemeng.2021.107366
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0098135421001447-fx1_lrg.jpg
+  description: >
+    <i> COMANDO</i> is a flexible open-source Python package for component-oriented modeling and optimization of energy systems. Our open-source package allows to build and solve energy system models from modular components and can consider nonlinear, dynamic and discrete models.
+  categories: [industry, energy systems, design, operation, optimization, open-source]
+  author: "Marco Langiu, David Yang Shu, Florian Joseph Baader, Dominik Hering, Uwe Bau, André Xhonneux, Dirk Müller, André Bardow, Alexander Mitsos, Manuel Dahmen"
+  date: 2021-05-14
+
+- title: "SecMOD: An Open-Source Modular Framework Combining Multi-Sector System Optimization and Life-Cycle Assessment"
+  path: https://doi.org/10.3389/fenrg.2022.884525
+  image: https://www.frontiersin.org/files/Articles/884525/fenrg-10-884525-HTML/image_m/fenrg-10-884525-g001.jpg
+  description: >
+    We present the open-source modeling, optimization and life-cycle assessment framework <i>SecMOD</i> for identifzing transition pathways for sustainable multi-sector energy systems. 
+  categories: [energy systems, design, operation, optimization, LCA, open-source]
+  author: "Christiane Reinert, Lars Schellhas, Jacob Mannhardt, David Yang Shu, Andreas Kämper, Nils Baumgärtner, Sarah Deutz, André Bardow"
+  date: 2021-05-14
+
+- title: "Insights from Life-Cycle Assessment of the Carbon Capture and Storage Supply Chain from the DMX™ Demonstration in Dunkirk (3D) Project"
+  path: https://dx.doi.org/10.2139/ssrn.4278568
+  image: 
+  description: >
+    Here, we conduct an LCA of a megaton-scale CCS supply chain designed within the Horizon 2020 project DMX™ Demonstration in Dunkirk (3D). The LCA is based on engineering studies for a CCS supply chain for a steel production plant in Northern France. 
+  categories: [CCS, LCA, industry, demonstration]
+  author: "Christiane Reinert, Lars Schellhas, Jacob Mannhardt, David Yang Shu, Andreas Kämper, Nils Baumgärtner, Sarah Deutz, André Bardow"
+  date: 2022-11-16
+
+- title: "The role of carbon capture and storage to achieve net-zero energy systems: Trade-offs between economics and the environment"
+  path: https://doi.org/10.1016/j.rser.2023.113246
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1364032123001028-gr3.jpg
+  description: >
+    We investigate the tradeoff between environment and economics in the transition to net-zero, focusing on the unique role of carbon capture and storage within a transitioning energy system.
+  categories: [industry, energy systems, CCS, LCA, optimization]
+  author: "David Yang Shu, Sarah Deutz, Benedikt Alexander Winter, Nils Baumgärtner, Ludger Leenders, André Bardow"
+  date: 2023-03-20
+
+- title: "Towards Designing Sector-Coupled Energy Systems Within Planetary Boundaries"
+  path: https://doi.org/10.69997/sct.126329
+  image: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/684348/LAPSE-2024.1580-1v1.pdf.jpg
+  description: >
+     We assess net-zero sector-coupled energy system designs within the planetarz boundaries framework for absolute environmental sustainability. Our assessment reveals that transitioning to net-zero reduces many environmental impacts, but may still leave planetary boundaries transgressed. 
+  categories: [energy systems, CCS, LCA, optimization]
+  author: "David Yang Shu, Jan Hartmann, Christian Zibunas, Nils Baumgärtner, Niklas von der Assen, André Bardow"
+  date: 2024-08-16
+  
+- title: "Design and Operation of Sustainable Net-Zero Energy Systems"
+  path: https://doi.org/10.3929/ethz-b-000692837
+  image: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/692837/20241013_Thesis_ResearchCollection_noCV.pdf.jpg
+  description: >
+    In my doctoral thesis, I investigate the role of carbon capture, removal, and storage technologies in contribute to the transition to net-zero. We consider industry with hard-to-abate emissions, the operation and the design of energy systems, and the environmental impacts of the transition.
+  categories: [energy systems, industry, CCS, LCA, optimization]
+  author: "David Yang Shu"
+  date: 2024-08-24
+  
+- title: "Finally defended!"
+  path: https://www.linkedin.com/feed/update/urn:li:activity:7237479078264504320/
+  image: https://media.licdn.com/dms/image/v2/D4D22AQFjxPolC71Qtw/feedshare-shrink_1280/feedshare-shrink_1280/0/1725549473433?e=1742428800&v=beta&t=MdHuWWqqKE-U5FtaSMFGayz_conTJH4NlmBDnRAtAL4
+  description: >
+    I thank the examination committee, Andrea Ramírez Ramírez and Marco Mazzotti, and in particular, André Bardow for the guidance and for creating an extremely supportive learning environment at the EPSE group. Special thanks to my colleagues, friends, and family for their support. It was very fun🎉!
+  categories: [news]
+  author: "David Yang Shu"
+  date: 2024-08-24
+
+- title: "Overcoming the central planner approach – Bilevel optimization of the European energy transition"
+  path: https://doi.org/10.3929/ethz-b-000692837
+  image: https://www.cell.com/cms/10.1016/j.isci.2024.110168/asset/f69ae5f3-a38c-49de-b790-6ebc65859f7b/main.assets/gr1_lrg.jpg
+  description: >
+    We model distributed decision making in the transition to net-zero energy systems via bilevel optimization. By comparing the results of the transition to a model following the central planner approach, we find that neglecting stakeholder representation in energy system models can result in miscalculations of the need for capacity expansion.
+  categories: [energy systems, LCA, optimization]
+  author: "David Yang Shu, Christiane Reinert, Jacob Mannhardt, Ludger Leenders, Jannik Lüthje, Alexander Mitsos, André Bardow"
+  date: 2024-05-30
+
+- title: "Flexibility from industrial demand-side management in net-zero sector-coupled national energy systems"
+  path: https://doi.org/10.3389/fenrg.2024.1443506
+  image: https://www.frontiersin.org/files/Articles/1443506/fenrg-12-1443506-HTML/image_m/fenrg-12-1443506-g001.jpg
+  description: >
+    Using a generic, process-agnostic model, we determine the value of industrial demand-side management within larger energy systems. We show that demand-side management can reduce total energy system costs by up to 4.4% or 20% of industry-related energy costs. However, the value of demand-side management  depends on the system’s flexibility alternatives. 
+  categories: [energy systems, industry, optimization]
+  author: "Patricia Mayer, Mario Heer, David Yang Shu, Nik Zielonka, Ludger Leenders, Florian Joseph Baader, André Bardow"
+  date: 2024-07-18
+
+- title: "Gordon Research Conference on CCUS in Les Diablerets"
+  path: https://www.research-collection.ethz.ch/handle/20.500.11850/616446
+  image: https://media.licdn.com/dms/image/v2/D4E22AQF5BQKjSchgfQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1685784276742?e=1742428800&v=beta&t=mXezNbuafWaDO6uzDkZdzj2LwSRyV6N8elFO2ZPLawc
+  description: >
+    We had fun and great speakers at the GRC conference on CCUS that our group from ETH organized in Les Diablerets. On top of that our work on <i>The role of carbon capture & storage to achieve net-zero energy systems</i> was elected for the best poster award by the conference participants.
+  categories: [news]
+  author: "David Yang Shu, Sarah Deutz, Jan Hartmann, Benedikt Winter, Nils Baumgärtner, Ludger Leenders, André Bardow"
+  date: 2023-05-31
