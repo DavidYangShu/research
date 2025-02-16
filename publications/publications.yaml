@@ -4,7 +4,7 @@
   description: >
     Designing multi-energy systems involves large time series resulting in complex large-scale optimization problems. Here, we propose a decomposition method based on time series aggregation that rigorously solves the design problem within a specified optimality gap.
   categories: [industry, energy systems, design, operation, optimization]
-  author: "Björn Bahl, Julian Lützow, David Shu, Dinah Elena Hollermann, Matthias Lampe, Maike Hennen, 
+  author: "Björn Bahl, Julian Lützow, <b>David Shu</b>, Dinah Elena Hollermann, Matthias Lampe, Maike Hennen, 
 André Bardow"
   date: 2018-02-14
 
@@ -23,7 +23,7 @@ André Bardow"
   description: >
     A model compendium, realistic data sets, and two case studies for an industrial and a research campus energy system are presented. The case studies serve as open-source benchmarks for methods in the design and operational optimization of multi-energy systems.
   categories: [industry, energy systems, design, operation, optimization, open-source]
-  author: "Susanne Sass, Timm Faulwasser, Dinah Elena Hollermann, Chrysoula Dimitra Kappatou, Dominique Sauer, Thomas Schütz, David Yang Shu, André Bardow, Lutz Gröll, Veit Hagenmeyer, Dirk Müller, Alexander Mitsos"
+  author: "Susanne Sass, Timm Faulwasser, Dinah Elena Hollermann, Chrysoula Dimitra Kappatou, Dominique Sauer, Thomas Schütz, <b>David Yang Shu</b>, André Bardow, Lutz Gröll, Veit Hagenmeyer, Dirk Müller, Alexander Mitsos"
   date: 2020-02-05
 
 - title: "DeLoop: Decomposition-based Long-term operational optimization of energy systems with time-coupling constraints"
@@ -32,7 +32,7 @@ André Bardow"
   description: >
     Time coupling is common in renewable multi-energy systems, resulting in hard-to-solve large-scale operational optimization problems. Here, we propose the <i>DeLoop</i> method to generate near optimal long-term schedules via decomposition.
   categories: [industry, energy systems, operation, optimization]
-  author: "Nils Baumgärtner, David Shu, Björn Bahl, Maike Hennen, Dinah Elena Hollermann, André Bardow"
+  author: "Nils Baumgärtner, <b>David Shu</b>, Björn Bahl, Maike Hennen, Dinah Elena Hollermann, André Bardow"
   date: 2020-03-03
   
 - title: "COMANDO: A Next-Generation Open-Source Framework for Energy Systems Optimization"
@@ -41,7 +41,7 @@ André Bardow"
   description: >
     <i> COMANDO</i> is a flexible open-source Python package for component-oriented modeling and optimization of energy systems. Our open-source package allows to build and solve energy system models from modular components and can consider nonlinear, dynamic and discrete models.
   categories: [industry, energy systems, design, operation, optimization, open-source]
-  author: "Marco Langiu, David Yang Shu, Florian Joseph Baader, Dominik Hering, Uwe Bau, André Xhonneux, Dirk Müller, André Bardow, Alexander Mitsos, Manuel Dahmen"
+  author: "Marco Langiu, <b>David Yang Shu</b>, Florian Joseph Baader, Dominik Hering, Uwe Bau, André Xhonneux, Dirk Müller, André Bardow, Alexander Mitsos, Manuel Dahmen"
   date: 2021-05-14
 
 - title: "SecMOD: An Open-Source Modular Framework Combining Multi-Sector System Optimization and Life-Cycle Assessment"
@@ -50,7 +50,7 @@ André Bardow"
   description: >
     We present the open-source modeling, optimization and life-cycle assessment framework <i>SecMOD</i> for identifzing transition pathways for sustainable multi-sector energy systems. 
   categories: [energy systems, design, operation, optimization, LCA, open-source]
-  author: "Christiane Reinert, Lars Schellhas, Jacob Mannhardt, David Yang Shu, Andreas Kämper, Nils Baumgärtner, Sarah Deutz, André Bardow"
+  author: "Christiane Reinert, Lars Schellhas, Jacob Mannhardt, <b>David Yang Shu</b>, Andreas Kämper, Nils Baumgärtner, Sarah Deutz, André Bardow"
   date: 2021-05-14
 
 - title: "Insights from Life-Cycle Assessment of the Carbon Capture and Storage Supply Chain from the DMX™ Demonstration in Dunkirk (3D) Project"
@@ -59,7 +59,7 @@ André Bardow"
   description: >
     Here, we conduct an LCA of a megaton-scale CCS supply chain designed within the Horizon 2020 project DMX™ Demonstration in Dunkirk (3D). The LCA is based on engineering studies for a CCS supply chain for a steel production plant in Northern France. 
   categories: [CCS, LCA, industry, demonstration]
-  author: "Christiane Reinert, Lars Schellhas, Jacob Mannhardt, David Yang Shu, Andreas Kämper, Nils Baumgärtner, Sarah Deutz, André Bardow"
+  author: "Christiane Reinert, Lars Schellhas, Jacob Mannhardt, <b>David Yang Shu</b>, Andreas Kämper, Nils Baumgärtner, Sarah Deutz, André Bardow"
   date: 2022-11-16
 
 - title: "The role of carbon capture and storage to achieve net-zero energy systems: Trade-offs between economics and the environment"
@@ -68,7 +68,7 @@ André Bardow"
   description: >
     We investigate the tradeoff between environment and economics in the transition to net-zero, focusing on the unique role of carbon capture and storage within a transitioning energy system.
   categories: [industry, energy systems, CCS, LCA, optimization]
-  author: "David Yang Shu, Sarah Deutz, Benedikt Alexander Winter, Nils Baumgärtner, Ludger Leenders, André Bardow"
+  author: "<b>David Yang Shu</b>, Sarah Deutz, Benedikt Alexander Winter, Nils Baumgärtner, Ludger Leenders, André Bardow"
   date: 2023-03-20
 
 - title: "Towards Designing Sector-Coupled Energy Systems Within Planetary Boundaries"
@@ -77,7 +77,7 @@ André Bardow"
   description: >
      We assess net-zero sector-coupled energy system designs within the planetarz boundaries framework for absolute environmental sustainability. Our assessment reveals that transitioning to net-zero reduces many environmental impacts, but may still leave planetary boundaries transgressed. 
   categories: [energy systems, CCS, LCA, optimization]
-  author: "David Yang Shu, Jan Hartmann, Christian Zibunas, Nils Baumgärtner, Niklas von der Assen, André Bardow"
+  author: "<b>David Yang Shu</b>, Jan Hartmann, Christian Zibunas, Nils Baumgärtner, Niklas von der Assen, André Bardow"
   date: 2024-08-16
   
 - title: "Design and Operation of Sustainable Net-Zero Energy Systems"
@@ -104,7 +104,7 @@ André Bardow"
   description: >
     We model distributed decision making in the transition to net-zero energy systems via bilevel optimization. By comparing the results of the transition to a model following the central planner approach, we find that neglecting stakeholder representation in energy system models can result in miscalculations of the need for capacity expansion.
   categories: [energy systems, LCA, optimization]
-  author: "David Yang Shu, Christiane Reinert, Jacob Mannhardt, Ludger Leenders, Jannik Lüthje, Alexander Mitsos, André Bardow"
+  author: "<b>David Yang Shu</b>, Christiane Reinert, Jacob Mannhardt, Ludger Leenders, Jannik Lüthje, Alexander Mitsos, André Bardow"
   date: 2024-05-30
 
 - title: "Flexibility from industrial demand-side management in net-zero sector-coupled national energy systems"
@@ -113,7 +113,7 @@ André Bardow"
   description: >
     Using a generic, process-agnostic model, we determine the value of industrial demand-side management within larger energy systems. We show that demand-side management can reduce total energy system costs by up to 4.4% or 20% of industry-related energy costs. However, the value of demand-side management  depends on the system’s flexibility alternatives. 
   categories: [energy systems, industry, optimization]
-  author: "Patricia Mayer, Mario Heer, David Yang Shu, Nik Zielonka, Ludger Leenders, Florian Joseph Baader, André Bardow"
+  author: "Patricia Mayer, Mario Heer, <b>David Yang Shu</b>, Nik Zielonka, Ludger Leenders, Florian Joseph Baader, André Bardow"
   date: 2024-07-18
 
 - title: "Gordon Research Conference on CCUS in Les Diablerets"
@@ -122,5 +122,5 @@ André Bardow"
   description: >
     We had fun and great speakers at the GRC conference on CCUS that our group from ETH organized in Les Diablerets. On top of that our work on <i>The role of carbon capture & storage to achieve net-zero energy systems</i> was elected for the best poster award by the conference participants.
   categories: [news]
-  author: "David Yang Shu, Sarah Deutz, Jan Hartmann, Benedikt Winter, Nils Baumgärtner, Ludger Leenders, André Bardow"
+  author: "<b>David Yang Shu</b>, Sarah Deutz, Jan Hartmann, Benedikt Winter, Nils Baumgärtner, Ludger Leenders, André Bardow"
   date: 2023-05-31
