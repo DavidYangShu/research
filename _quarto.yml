@@ -3,7 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "David Yang Shu, MIT"
+  title: "David Yang Shu | Research"
+  google-analytics: 
+    tracking-id: "G-J1888H1VEP"
+    anonymize-ip: true
+    storage: none
   navbar:
     left:
       - href: index.qmd

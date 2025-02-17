@@ -1,5 +1,5 @@
 ---
-title: "David Yang Shu, MIT"
+title: "David Yang Shu"
 
 about:
   id: hero-heading
