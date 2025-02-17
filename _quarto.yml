@@ -3,14 +3,9 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://davidyangshu.github.io/research/
   title: "David Yang Shu | Research"
   image: "preview.png"
-  google-analytics:
-    tracking-id: "G-J1888H1VEP"
-    anonymize-ip: true
-    storage: none
-    version: 3
+  site-url: https://davidyangshu.github.io/research/
   navbar:
     left:
       - href: index.qmd
@@ -29,3 +24,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-after-body:
+      - text: |
+          <script data-goatcounter="https://0112358.goatcounter.com/count" 
+          async src="//gc.zgo.at/count.js"></script>
