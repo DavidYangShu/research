@@ -82,7 +82,7 @@ André Bardow"
   
 - title: "Design and Operation of Sustainable Net-Zero Energy Systems"
   path: https://doi.org/10.3929/ethz-b-000692837
-  image: "preview.png"
+  image: "https://davidyangshu.github.io/research/preview.png"
   description: >
     In my doctoral thesis, I investigate the role of carbon capture, removal, and storage technologies in contribute to the transition to net-zero. We consider industry with hard-to-abate emissions, the operation and the design of energy systems, and the environmental impacts of the transition.
   categories: [energy systems, industry, CCS, LCA, optimization]
