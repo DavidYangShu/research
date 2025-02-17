@@ -1,4 +1,26 @@
 /* css styles */
 p {
   font-family: Helvetia, Arial, sans-serif;
+  font-weight: normal
 }
+
+ul { 
+  font-family: Helvetia, Arial, sans-serif; 
+  font-weight: normal
+}
+
+p + ul {
+    margin-top: -12px;
+} 
+
+#a {
+#  color: blue;
+#  border-bottom: 1px solid transparent;
+#  transition: border-color 0.2s ease;
+#  font-family: Helvetia, Arial, sans-serif; 
+#}
+
+#a:hover {
+#  color: #001980;
+#  border-bottom-color: #001980;
+#  }   
