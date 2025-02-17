@@ -3,11 +3,14 @@ project:
   output-dir: docs
 
 website:
+  site-url: https://davidyangshu.github.io/research/
   title: "David Yang Shu | Research"
-  google-analytics: 
+  image: "preview.png"
+  google-analytics:
     tracking-id: "G-J1888H1VEP"
     anonymize-ip: true
     storage: none
+    version: 3
   navbar:
     left:
       - href: index.qmd
@@ -16,6 +19,8 @@ website:
         text: CV
       - href: publications/index.qmd
         text: Publications
+  twitter-card: true
+  open-graph: true
 
 format:
   html:
