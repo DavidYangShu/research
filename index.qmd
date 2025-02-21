@@ -39,7 +39,7 @@ listing:
 Hey there! \
 I am a postdoctoral associate at MIT working on the nonlinear optimal design of carbon capture units under uncertainty. My research spans environmental life-cycle assessment, process optimization, and sustainable system design, with applications in carbon capture and storage technologies and the broader energy transition. \
 In my doctoral studies at ETH Zurich (Switzerland), I investigated the design and operation of net-zero energy systems employing multi-criterial optimization to evaluate trade-offs between economic and environmental objectives. I further applied bilevel optimization to model market interactions in the energy transition. \
-In my research, I have contributed to the Horizon 2020 project <a href="https://3d-ccus.com/"> DMX™ Demonstration in Dunkirk (3D)<\a> by performing life-cycle assessments for full-scale CCUS supply chains. I also evaluated the sustainability of carbon dioxide transport in the Swiss demonstration project <a href="https://www.demoupcarma.ethz.ch/en/home/"> DemoUpCARMA<\a>, in which we captured and transported CO~2~ all the way fom Switzerland to Iceland for geological storage in basaltic rock.\
+In my research, I have contributed to the Horizon 2020 project <a href="https://3d-ccus.com/"> DMX™ Demonstration in Dunkirk (3D)</a> by performing life-cycle assessments for full-scale CCUS supply chains. I also evaluated the sustainability of carbon dioxide transport in the Swiss demonstration project <a href="https://www.demoupcarma.ethz.ch/en/home/"> DemoUpCARMA </a>, in which we captured and transported CO~2~ all the way fom Switzerland to Iceland for geological storage in basaltic rock.\
 Interested in my research? Let me know and I am happy chat!
 </div>
 
