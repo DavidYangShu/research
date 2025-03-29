@@ -55,7 +55,7 @@ André Bardow"
 
 - title: "PATHFNDR Lunch Talk: What is “SecMOD”?"
   path: https://www.youtube.com/watch?v=wXFocTL95hs
-  image: https://davidyangshu.github.io/research/SecMOD.jpeg
+  image: "/SecMOD.jpg"
   description: >
     Christiane Reinert and I gave a <a href="https://www.youtube.com/watch?v=wXFocTL95hs"> short introduction</a> to our open-source energy system modeling, optimization, and life-cycle assessment framework <a href="https://doi.org/10.3389/fenrg.2022.884525"> “SecMOD”</a>. The seminar was hosted by the <a href="https://sweet-pathfndr.ch/"> SWEET PATHFNDR</a> project  sponsored by the Swiss Federal Office of Energy, which among others aims to provide feasible transition pathways for Switzerland, developing tools as well as pilot and demonstration projects.
   categories: [LCA, energy systems, opimization]
@@ -82,7 +82,7 @@ André Bardow"
   
 - title: "The 3D project and the environmental assessment of carbon capture and storage supply chains"
   path: https://www.youtube.com/watch?v=2bZgOsL-7vQ
-  image: https://davidyangshu.github.io/research/3D.jpeg
+  image: "/3D.jpg"
   description: >
     How do carbon capture, transport, and storage projects perform from an environmental perspective? In this video, project leader Vania Santos-Moreau (IFPEN) and I present the Horizon 2020 project <a href=https://3d-ccus.com/>DMX™ Demonstration in Dunkirk (3D)</a> and what our research shows on its environmental performance. 
   categories: [industry, energy systems, CCS, LCA, optimization]
@@ -100,7 +100,7 @@ André Bardow"
   
 - title: "Design and Operation of Sustainable Net-Zero Energy Systems"
   path: https://doi.org/10.3929/ethz-b-000692837
-  image: "https://davidyangshu.github.io/research/preview.png"
+  image: "/preview.png"
   description: >
     In my doctoral thesis, I investigate the role of carbon capture, removal, and storage technologies in contribute to the transition to net-zero. We consider industry with hard-to-abate emissions, the operation and the design of energy systems, and the environmental impacts of the transition.
   categories: [energy systems, industry, CCS, LCA, optimization]
@@ -109,7 +109,7 @@ André Bardow"
   
 - title: "Finally defended!"
   path: https://www.linkedin.com/feed/update/urn:li:activity:7237479078264504320/
-  image: https://davidyangshu.github.io/research/defense.jpeg
+  image: "/defense.jpg"
   description: >
     I thank the examination committee, Andrea Ramírez Ramírez and Marco Mazzotti, and in particular, André Bardow for the guidance and for creating an extremely supportive learning environment at the EPSE group. Special thanks to my colleagues, friends, and family for their support. It was very fun🎉!
   categories: [news]
@@ -136,7 +136,7 @@ André Bardow"
 
 - title: "Gordon Research Conference on CCUS in Les Diablerets"
   path: https://www.research-collection.ethz.ch/handle/20.500.11850/616446
-  image: https://davidyangshu.github.io/research/GRC.jpeg
+  image: "/GRC.jpg"
   description: >
     We had fun and great speakers at the GRC conference on CCUS that our group from ETH organized in Les Diablerets. On top of that our work on <i>The role of carbon capture & storage to achieve net-zero energy systems</i> was elected for the best poster award by the conference participants.
   categories: [news]
