@@ -20,7 +20,7 @@ listing:
     - "date desc"
   sort-ui: [title, date]
   grid-columns: 2
-  max-description-length: 300
+  max-description-length: 600
   date-format: iso
   image-height: 300px
 ---
