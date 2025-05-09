@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://davidyangshu.github.io/research/publications/index.html</loc>
-    <lastmod>2025-03-29T18:22:10.711Z</lastmod>
-  </url>
-  <url>
-    <loc>https://davidyangshu.github.io/research/cv/index.html</loc>
-    <lastmod>2025-02-15T22:26:53.543Z</lastmod>
+    <loc>https://davidyangshu.github.io/research/Publications.html</loc>
+    <lastmod>2025-05-09T18:36:27.485Z</lastmod>
   </url>
   <url>
     <loc>https://davidyangshu.github.io/research/index.html</loc>
-    <lastmod>2025-03-18T00:12:04.469Z</lastmod>
+    <lastmod>2025-05-09T18:38:32.424Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davidyangshu.github.io/research/cv/index.html</loc>
+    <lastmod>2025-05-09T18:37:26.153Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davidyangshu.github.io/research/publications/index.html</loc>
+    <lastmod>2025-05-09T18:36:27.921Z</lastmod>
   </url>
 </urlset>

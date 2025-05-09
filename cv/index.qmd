@@ -18,7 +18,7 @@ about:
 
 ## Research
 
-<p><b> MIT Energy Initiative | MIT</b><br>
+<p><b> MIT Energy Initiative / Department of Chemical Engineering | MIT</b><br>
 Cambridge, MA, USA <br>
 Postdoctoral Associate | <time>2/2025</time> - present <br>
 <i> Technoeconomic and environmental assessment, as well as nonlinear process optimization of point source carbon capture processes. </i>
