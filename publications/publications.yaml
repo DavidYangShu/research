@@ -91,9 +91,9 @@ André Bardow"
 
 - title: "Towards Designing Sector-Coupled Energy Systems Within Planetary Boundaries"
   path: https://doi.org/10.69997/sct.126329
-  image: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/684348/LAPSE-2024.1580-1v1.pdf.jpg
+  image: "/PB.jpg"
   description: >
-     We assess net-zero sector-coupled energy system designs within the planetarz boundaries framework for absolute environmental sustainability. Our assessment reveals that transitioning to net-zero reduces many environmental impacts, but may still leave planetary boundaries transgressed. 
+     We assess net-zero sector-coupled energy system designs within the planetary boundaries framework for absolute environmental sustainability. Our assessment reveals that transitioning to net-zero reduces many environmental impacts, but may still leave planetary boundaries transgressed. 
   categories: [energy systems, CCS, LCA, optimization]
   author: "<b>David Yang Shu</b>, Jan Hartmann, Christian Zibunas, Nils Baumgärtner, Niklas von der Assen, André Bardow"
   date: 2024-08-16
@@ -158,5 +158,23 @@ André Bardow"
   description: >
     We investigated a megatonne-scale CCS supply chain applied to a steel plant. The study, based on detailed data generated in the <i>DMX™ Demonstration in Dunkirk</i> project, finds high life-cycle CCS efficiencies due to the low greenhouse-gas-intensity of local energy supply and efficient offshore transport. However, CCS must be considered within a portfolio of decarbonization strategies.
   categories: [CCS, LCA, industry]
-  author: "<b>David Yang Shu</b>, Leidy-Tatiana Vargas-Ibáñez, Guillaume Batôt, Fabrice Devaux, Vania Santos Moreau, Ludger Leenders, André Bardow aAndré Bardow"
+  author: "<b>David Yang Shu</b>, Leidy-Tatiana Vargas-Ibáñez, Guillaume Batôt, Fabrice Devaux, Vania Santos Moreau, Ludger Leenders, André Bardow"
   date: 2025-06-12
+
+- title: "Transition pathways to electrified chemical production within sector-coupled national energy systems"
+  path: https://doi.org/10.1039/D5EE01118C
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5EE01118C&imageInfo.ImageIdentifier.Year=2025
+  description: >
+    We investigated how the chemical industry can transition to net-zero emissions within a sector-coupled national energy system. Our findings show that electrification of chemical production happens later than in other sectors, beginning with methanol and progressing through ammonia, olefins, and aromatics. During the transition, a partially electrified, diversified chemical industry provides system flexibility and supports the integration of intermittent renewable energy.
+  categories: [energy systems, industry, optimization]
+  author: "Patricia Mayer, Florian Joseph Baader, <b>David Yang Shu</b>, Ludger Leenders, Christian Zibunas, Stefano Moret, André Bardow"
+  date: 2024-07-03
+
+- title: "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage."
+  path: https://doi.org/10.1039/D5EE01732G
+  image: "/DAC.jpg"
+  description: >
+    We have contributed to this review on direct air CO₂ capture and storage, a key technology for carbon dioxide removal that will be essential in achieving and sustaining net-zero emissions. The review synthesizes current knowledge on DACCS, covering technology status, technoeconomic and environmental performance, policy, equity, public perception, and monitoring. It highlights that large-scale deployment of DACCS will require sustained government support, akin to the subsidies that enabled renewable energy expansion.
+  categories: [CCS, industry, LCA]
+  author: "Mijndert Van der Spek, André Bardow, Chad M. Baum, Vittoria Bolongaro, Vincent Dufour-Décieux, Carla Esch, Livia Fritz, Susana García, Christiane Hamann, Dianne Hondeborg, Ali Kiani, Sarah Lueck, Shrey Kalpeshkumar Patel, Shing Bo Peh, Maxwell Pisciotta, Peter Psarras, Tim Repke, Paola Alejandra Sáenz-Cavazos, Ingrid Schulte, <b>David Yang Shu</b>, Qingdian Shu, Benjamin Kenneth Sovacool, Jessica Strefler, Sara Vallejo Castaño, Jin-Yu Wang, Matthias Wessling, Jennifer Wilcox, John Young, Jan Christoph Minx"
+  date: 2025-10-01
