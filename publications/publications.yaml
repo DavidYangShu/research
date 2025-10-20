@@ -4,8 +4,7 @@
   description: >
     Designing multi-energy systems involves large time series resulting in complex large-scale optimization problems. Here, we propose a decomposition method based on time series aggregation that rigorously solves the design problem within a specified optimality gap.
   categories: [industry, energy systems, design, operation, optimization]
-  author: "Björn Bahl, Julian Lützow, <b>David Shu</b>, Dinah Elena Hollermann, Matthias Lampe, Maike Hennen, 
-André Bardow"
+  author: "Björn Bahl, Julian Lützow, <b>David Shu</b>, Dinah Elena Hollermann, Matthias Lampe, Maike Hennen, André Bardow"
   date: 2018-02-14
 
 - title: "From peak power prices to seasonal storage: Long-term operational optimization of energy systems by time-series decomposition"
@@ -68,7 +67,7 @@ André Bardow"
   description: >
     Here, we conduct an LCA of a megaton-scale CCS supply chain designed within the Horizon 2020 project DMX™ Demonstration in Dunkirk (3D). The LCA is based on engineering studies for a CCS supply chain for a steel production plant in Northern France. 
   categories: [CCS, LCA, industry, demonstration]
-  author: "Christiane Reinert, Lars Schellhas, Jacob Mannhardt, <b>David Yang Shu</b>, Andreas Kämper, Nils Baumgärtner, Sarah Deutz, André Bardow"
+  author: "<b>David Yang Shu</b>, Helen Bewi Komesse, Sandra Beauchet, Ludger Leenders, Fabrice Devaux, Vania Santos Moreau, André Bardow"
   date: 2022-11-16
 
 - title: "The role of carbon capture and storage to achieve net-zero energy systems: Trade-offs between economics and the environment"
