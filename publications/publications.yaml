@@ -169,7 +169,7 @@
   author: "Patricia Mayer, Florian Joseph Baader, <b>David Yang Shu</b>, Ludger Leenders, Christian Zibunas, Stefano Moret, André Bardow"
   date: 2025-07-03
 
-- title: "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage."
+- title: "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"
   path: https://doi.org/10.1039/D5EE01732G
   image: "/DAC.jpg"
   description: >
@@ -186,3 +186,12 @@
   categories: [news]
   author: "<b>David Yang Shu</b>"
   date: 2025-10-09
+
+- title: "Beyond pipelines: Multi-modal CO₂ transport enables timely CO₂ capture, transport, and storage deployment"
+  path: https://doi.org/10.1016/j.ijggc.2026.104698
+  image: "https://ars.els-cdn.com/content/image/1-s2.0-S1750583626001301-ga1_lrg.jpg"
+  description: >
+    In this publication, we investigate how slow CO₂ pipeline deployment could affect capture, transport, and storage value chains. Using a CO₂ transport network optimization model, we introduce pipeline diffusion limits and apply them to our case study of Switzerland. Our results show that limited expansion rates could cause a 9% CO₂ sequestration deficit. We further demonstrate that non-pipeline transport can overcome these limits to meet policy goals with limited cost increases, making multi-modal transport a robust alternative to relying solely on pipelines.
+  categories: [CCS, industry, Optimization]
+  author: "Johannes Burger, <b>David Yang Shu</b>, André Bardow, Giovanni Sansavini"
+  date: 2026-06-03
