@@ -162,7 +162,7 @@
 
 - title: "Transition pathways to electrified chemical production within sector-coupled national energy systems"
   path: https://doi.org/10.1039/D5EE01118C
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5EE01118C&imageInfo.ImageIdentifier.Year=2025
+  image: https://rscj.silverchair-cdn.com/rscj/content_public/journal/ee/18/16/10.1039_d5ee01118c/1/d5ee01118c-ga.png?Expires=1786477189&Signature=gPTbK8CukNklY1NEBvFeCYSYodWTOrjAYEAI-LfHZ3mitIhdYhSUK~k3E-KJUI~7ciKOXL7j7GwzNOgU2DoCxdsCZ6arQ2vIogKnkc8lYsdUbjvsz3mkjXVplZPKC0SLyLf3jbyWhgTezXR90mq7LKw0GpkLe63VleRJR9MVpbnT6M2nVe18yvvhTZv8dqAo5rpWXz0lcbr0P0y4psb7mjlIAE-n6bzlw~ZBpbDTeZwVbBp9F0adAL04ItKJCQKrK9UA7A-mC0ozUEqOFjYr4PRIvLGvPY7-rTa1M6SjTl762qY8U8YZCklj2~k527VCPfHJ7l0TkPKqjP9FW0YNPg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   description: >
     We investigated how the chemical industry can transition to net-zero emissions within a sector-coupled national energy system. Our findings show that electrification of chemical production happens later than in other sectors, beginning with methanol and progressing through ammonia, olefins, and aromatics. During the transition, a partially electrified, diversified chemical industry provides system flexibility and supports the integration of intermittent renewable energy.
   categories: [energy systems, industry, optimization]
@@ -205,3 +205,13 @@
   categories: [CCS, industry, LCA]
   author: "Vittoria Bolongaro, <b>David Yang Shu</b>, Noah McQueen, André Bardow"
   date: 2026-06-04
+
+
+- title: "Allocation and characterisation factors for absolute environmental sustainability assessment"
+  path: https://doi.org/10.1038/s41597-026-07797-w
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-026-07797-w/MediaObjects/41597_2026_7797_Fig1_HTML.png"
+  description: >
+    In this publications, we provide data and methods to implement planetary-boundaries-based absolute environmental sustainability assessments. In particular, we descibe how to come up with allocation factors for economic sectors within specified regions and how characterization factors can be implemented with ecoinvent within the Brightway2 environment. We hope that this publication will support the community in sustainability research.
+  categories: [LCA, open-source]
+  author: "Jan Marcus Hartmann, <b>David Yang Shu</b>, André Bardow, Niklas von der Assen"
+  date: 2026-07-04

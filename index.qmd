@@ -30,8 +30,7 @@ listing:
 ---
 
 :::{#hero-heading}
-
-<div style="text-align:center"><b><span>Postdoctoral Associate</span><br>
+<div style="text-align:center"><b><span>Postdoctoral Associate</span><br></div>
 <div style="text-align:center; font-weight: normal">
 <a href="https://energy.mit.edu/">MIT Energy Initiative</a> & <a href="https://shin.mit.edu/people/">Shin Group | ChemE | MIT </a><br>
 </div>

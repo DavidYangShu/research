@@ -16,6 +16,7 @@ website:
         text: Publications
   twitter-card: true
   open-graph: true
+  favicon: icon.png
 
 format:
   html:
